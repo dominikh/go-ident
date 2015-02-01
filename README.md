@@ -6,7 +6,7 @@ This package provides a client for the
 ## Installation
 
 ```sh
-go get -u honnef.co/go/ident
+go get honnef.co/go/ident
 ```
 
 ## Documentation
